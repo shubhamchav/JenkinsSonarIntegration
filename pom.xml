@@ -18,7 +18,7 @@
         <jacoco.version>0.8.6</jacoco.version>
 
         <sonar.host.url>http://localhost:9000</sonar.host.url>
-        <sonar.login>sqa_bfc4f2a2e646d613c9478f66baf6c54f26faa6f6</sonar.login>
+        <sonar.login>sqa_32e5be74ca3a07cbda4f07ae79270f7e8874bb1a</sonar.login>
         <sonar.projectKey>26091_sca_project_pom:master</sonar.projectKey>
         <sonar.projectName>26091_sca_project_pom</sonar.projectName>
         <sonar.jacoco.reportPaths>target/jacoco.exec</sonar.jacoco.reportPaths>
