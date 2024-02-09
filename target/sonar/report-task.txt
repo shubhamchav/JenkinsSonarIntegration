@@ -1,0 +1,6 @@
+projectKey=26091_sca_project_pom:master
+serverUrl=http://localhost:9000
+serverVersion=9.9.3.79811
+dashboardUrl=http://localhost:9000/dashboard?id=26091_sca_project_pom%3Amaster
+ceTaskId=AY0_drWhjswxjYbFvjdB
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY0_drWhjswxjYbFvjdB
